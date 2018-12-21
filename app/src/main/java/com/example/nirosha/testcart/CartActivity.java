@@ -32,6 +32,18 @@ public class CartActivity extends AppCompatActivity {
         warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
         warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
         warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("3 years","129 SR" ));
+        warrantyObjects.add(new WarrantyObject("Last item 3 years","129 SR" ));
         return warrantyObjects;
     }
 }
